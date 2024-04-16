@@ -83,7 +83,7 @@
 
         SYS {
             bindings = <
-&bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &trans  &trans  &trans  &trans  &trans  &kp PAUSE_BREAK  &bt BT_CLR_ALL  &bt BT_CLR  &bt BT_PRV  &bt BT_NXT  &trans  &trans  &trans  &trans  &trans  &kp INSERT  &kp CAPSLOCK  &trans  &trans  &trans  &trans  &trans  &trans  &kp LS(LG(LESS_THAN))  &kp LS(LG(GREATER_THAN))  &kp K_PLAY_PAUSE  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp C_BRI_DEC  &kp C_BRI_INC
+&bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &trans  &trans  &trans  &trans  &trans  &kp PAUSE_BREAK  &bt BT_CLR_ALL  &bt BT_CLR  &bt BT_PRV  &bt BT_NXT  &trans  &trans  &trans  &trans  &trans  &kp INSERT  &kp CAPSLOCK  &trans  &trans  &trans  &trans  &trans  &trans  &kp LS(LG(LESS_THAN))  &kp LS(LG(GREATER_THAN))  &kp K_PLAY_PAUSE  &trans  &kp LEFT_WIN  &kp LA(LC(DELETE))  &trans  &trans  &trans  &trans  &trans  &kp C_BRI_DEC  &kp C_BRI_INC
             >;
         };
     };
